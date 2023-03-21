@@ -8,7 +8,7 @@ This file explains the different steps taken, and needed to replicate the result
 	 where to get the data, and what variables are needed 
 	 how to generate in and out migration rates,
 	 modelling of the migration rates.
-The zipped folder includes 19 programs (R files or Stata do files) and an excel file of migration rates.
+The zipped folder includes 19 programs (R files or Stata do files) and a csv file of migration rates.
 
 1. Data
 Census samples from IPUMS International are readily available at:
